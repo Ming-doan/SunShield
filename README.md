@@ -1,16 +1,32 @@
-# sun_shield
+# SunShield - Your Life Saver
 
-A new Flutter project.
+## How to run
 
-## Getting Started
+Clone this repository to your computer to run
 
-This project is a starting point for a Flutter application.
+`git clone https://github.com/Ming-doan/SunShield.git`
 
-A few resources to get you started if this is your first Flutter project:
+## Contributers
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Đoàn Quang Minh
+- Nguyễn Đăng Khoa
+- Đinh Trần Yến Vy
+- Nguyễn Trần Tâm Như
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Project UI Overview
+
+- Main Page
+
+![Main Screen](./assets/images/Main%20Screen.png)
+
+- Map Page
+
+![Map Screen](./assets/images/Map%20Screen.png)
+
+- Handbook Page
+
+![Handbook Screen](./assets/images/Handbook%20Screen.png)
+
+- Setting Page
+
+![Setting Screen](./assets/images/Setting%20Screen.png)
